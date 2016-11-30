@@ -1,0 +1,39 @@
+#firstdiv{
+	width:100%;
+	background-color: #3b5999;
+	height:120px;
+	
+	margin-top: -12px;
+	
+	}
+
+#img{
+
+		margin-left: 120px;
+		padding-top: 10px;
+		width: 100px;
+		float: left;
+
+    }
+
+#login{
+		color: white;
+       
+		
+	    border: 1px solid thick;
+	    
+	    vertical-align: middle;
+	}
+#middlediv{
+
+		 border: 1px solid thick;
+	    
+	}
+.button1{
+	background-color: #3b5999;
+	color:white;
+}
+.button2{
+	
+	color:black;
+}
